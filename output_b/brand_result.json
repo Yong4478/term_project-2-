@@ -1,0 +1,107 @@
+{
+  "brief": {
+    "industry": "친환경 화장품",
+    "target": "20-30대 여성",
+    "keywords": [
+      "자연",
+      "순수",
+      "건강"
+    ],
+    "tone": "따뜻하고 신뢰감 있는",
+    "competitors": [
+      "이니스프리",
+      "아로마티카"
+    ],
+    "notes": "비건 인증과 재활용 패키지를 강조하고 싶음"
+  },
+  "names": [
+    {
+      "korean": "블루밍",
+      "english": "Blooming",
+      "meaning": "자연에서 피어나는 아름다움"
+    },
+    {
+      "korean": "소소담",
+      "english": "Sosodam",
+      "meaning": "소소한 일상에 자연을 담다"
+    },
+    {
+      "korean": "어반리프",
+      "english": "Urban Leaf",
+      "meaning": "도시 속 자연의 싱그러움"
+    },
+    {
+      "korean": "온결",
+      "english": "Ongyeol",
+      "meaning": "따뜻한 결을 지닌 피부"
+    }
+  ],
+  "selected_name": {
+    "korean": "블루밍",
+    "english": "Blooming",
+    "meaning": "자연에서 피어나는 아름다움"
+  },
+  "slogans": [],
+  "story": {
+    "origin": "a",
+    "philosophy": "b",
+    "vision": "c",
+    "story": "가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가",
+    "length": 295
+  },
+  "color_palette": {
+    "main": {
+      "hex": "#2E7D32",
+      "name": "Forest Green",
+      "reason": "자연"
+    },
+    "sub": [
+      {
+        "hex": "#81C784",
+        "name": "Leaf",
+        "reason": ""
+      },
+      {
+        "hex": "#E8F5E9",
+        "name": "Mist",
+        "reason": ""
+      },
+      {
+        "hex": "#F4E1C1",
+        "name": "Sand",
+        "reason": ""
+      }
+    ]
+  },
+  "files": {
+    "result_json": "output_b\\brand_result.json",
+    "color_palette": "output_b\\color_palette.png",
+    "logos": [
+      {
+        "file": "output_b\\logo_01.png",
+        "prompt": "A professional brand logo for \"Blooming\". Industry: 친환경 화장품. Target customers: 20-30대 여성. Brand keywords: 자연, 순수, 건강. Mood: 따뜻하고 신뢰감 있는. Style: minimal flat vector emblem with a simple geometric symbol above the wordmark. Color palette: #2E7D32, #81C784, #E8F5E9, #F4E1C1. Centered on a plain white background, flat 2D vector logo, no mockup, no extra text other than the brand name."
+      },
+      {
+        "file": "output_b\\logo_02.png",
+        "prompt": "A professional brand logo for \"Blooming\". Industry: 친환경 화장품. Target customers: 20-30대 여성. Brand keywords: 자연, 순수, 건강. Mood: 따뜻하고 신뢰감 있는. Style: elegant line-art monogram built from the brand's initial letter, refined and modern. Color palette: #2E7D32, #81C784, #E8F5E9, #F4E1C1. Centered on a plain white background, flat 2D vector logo, no mockup, no extra text other than the brand name."
+      }
+    ]
+  },
+  "errors": [
+    {
+      "stage": "slogan",
+      "message": "3회 시도했지만 실패했습니다: HTTP 500: server error"
+    }
+  ],
+  "competitor_analysis": {
+    "competitors": [
+      {
+        "name": "이니스프리"
+      }
+    ],
+    "differentiation": [
+      "비건 인증",
+      "리필 패키지"
+    ]
+  }
+}
