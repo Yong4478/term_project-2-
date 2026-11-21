@@ -1,0 +1,120 @@
+{
+  "brief": {
+    "industry": "친환경 화장품",
+    "target": "20-30대 여성",
+    "keywords": [
+      "자연",
+      "순수",
+      "건강"
+    ],
+    "tone": "따뜻하고 신뢰감 있는",
+    "competitors": [
+      "이니스프리",
+      "아로마티카"
+    ],
+    "notes": "비건 인증과 재활용 패키지를 강조하고 싶음"
+  },
+  "providers": {
+    "text": "Google Gemini",
+    "image": "Pollinations.ai"
+  },
+  "names": [
+    {
+      "korean": "블루밍",
+      "english": "Blooming",
+      "meaning": "자연에서 피어나는 아름다움"
+    },
+    {
+      "korean": "소소담",
+      "english": "Sosodam",
+      "meaning": "소소한 일상에 자연을 담다"
+    },
+    {
+      "korean": "어반리프",
+      "english": "Urban Leaf",
+      "meaning": "도시 속 자연의 싱그러움"
+    },
+    {
+      "korean": "온결",
+      "english": "Ongyeol",
+      "meaning": "따뜻한 결을 지닌 피부"
+    }
+  ],
+  "selected_name": {
+    "korean": "블루밍",
+    "english": "Blooming",
+    "meaning": "자연에서 피어나는 아름다움"
+  },
+  "slogans": [
+    "일상에 자연을 담다",
+    "피부가 숨쉬는 순간",
+    "자연 그대로, 당신 그대로"
+  ],
+  "story": {
+    "origin": "도시의 바쁜 일상 속 산책길에서 피어난 꽃잎을 보며 자연의 회복력을 다시 느낀 순간",
+    "philosophy": "자연에서 온 순수한 원료만 정직하게 담고, 불필요한 것은 더하지 않는다",
+    "vision": "모든 사람의 일상에 자연의 아름다움이 피어나는 세상",
+    "story": "도시의 바쁜 일상 속에서 피부도 마음도 쉴 틈이 없던 창업자는 어느 봄날 산책길에서 막 피어난 꽃잎을 보며 자연이 가진 회복의 힘을 다시 느꼈습니다. 블루밍은 그 순간에서 시작되었습니다. 우리는 자연에서 온 순수한 원료만을 정직하게 담고, 피부에 불필요한 것은 더하지 않는다는 철학을 지킵니다. 비건 인증 원료와 재활용 가능한 패키지로 피부와 지구를 함께 생각합니다. 매일 아침 거울 앞에서 스스로를 아끼는 작은 순간이 모여 더 건강한 내일이 된다고 믿습니다. 블루밍은 모든 사람의 일상에 자연의 아름다움이 피어나는 세상을 꿈꿉니다.",
+    "length": 298
+  },
+  "color_palette": {
+    "main": {
+      "hex": "#2E7D32",
+      "name": "Forest Green",
+      "reason": "자연과 신뢰를 상징하는 깊은 숲의 녹색"
+    },
+    "sub": [
+      {
+        "hex": "#81C784",
+        "name": "Leaf",
+        "reason": "싱그러운 새잎의 생기"
+      },
+      {
+        "hex": "#E8F5E9",
+        "name": "Mist",
+        "reason": "순수하고 깨끗한 아침 안개"
+      },
+      {
+        "hex": "#F4E1C1",
+        "name": "Sand",
+        "reason": "따뜻하고 부드러운 피부 톤"
+      }
+    ]
+  },
+  "files": {
+    "result_json": "C:\\Users\\user\\Downloads\\brand_generator\\brand_result.json",
+    "color_palette": "C:\\Users\\user\\Downloads\\brand_generator\\color_palette.png",
+    "logos": [
+      {
+        "file": "C:\\Users\\user\\Downloads\\brand_generator\\logo_01.png",
+        "prompt": "A professional brand logo for \"Blooming\". Industry: 친환경 화장품. Target customers: 20-30대 여성. Brand keywords: 자연, 순수, 건강. Mood: 따뜻하고 신뢰감 있는. Style: minimal flat vector emblem with a simple geometric symbol above the wordmark. Color palette: #2E7D32, #81C784, #E8F5E9, #F4E1C1. Centered on a plain white background, flat 2D vector logo, no mockup, no extra text other than the brand name."
+      },
+      {
+        "file": "C:\\Users\\user\\Downloads\\brand_generator\\logo_02.png",
+        "prompt": "A professional brand logo for \"Blooming\". Industry: 친환경 화장품. Target customers: 20-30대 여성. Brand keywords: 자연, 순수, 건강. Mood: 따뜻하고 신뢰감 있는. Style: elegant line-art monogram built from the brand's initial letter, refined and modern. Color palette: #2E7D32, #81C784, #E8F5E9, #F4E1C1. Centered on a plain white background, flat 2D vector logo, no mockup, no extra text other than the brand name."
+      }
+    ]
+  },
+  "errors": [],
+  "competitor_analysis": {
+    "competitors": [
+      {
+        "name": "이니스프리",
+        "positioning": "제주 자연주의 대중 브랜드",
+        "strength": "높은 인지도와 넓은 유통망",
+        "weakness": "대중적 이미지로 프리미엄 비건 이미지가 약함"
+      },
+      {
+        "name": "아로마티카",
+        "positioning": "비건·제로웨이스트 아로마 브랜드",
+        "strength": "친환경 패키지 선도",
+        "weakness": "향 중심 이미지로 20대 접근성이 낮음"
+      }
+    ],
+    "differentiation": [
+      "비건 인증과 원료 출처를 제품 전면에 투명하게 공개",
+      "리필 스테이션과 재활용 패키지 회수 프로그램 운영",
+      "20-30대 일상 루틴에 맞춘 미니멀 3단계 라인업"
+    ]
+  }
+}
