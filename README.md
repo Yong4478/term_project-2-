@@ -1,3 +1,4 @@
+<img width="1192" height="549" alt="color_palette" src="https://github.com/user-attachments/assets/b23c3610-8f19-47b8-8859-18e13a890775" />
 [README (3).md](https://github.com/user-attachments/files/35200635/README.3.md)
 # 🎨 AI 브랜드 아이덴티티 생성기
 
@@ -317,6 +318,8 @@ API 키나 인터넷 없이, HTTP 응답만 가짜 서버로 바꾸고 나머지
 1. 비건 인증과 원료 출처를 제품 전면에 투명하게 공개
 2. 리필 스테이션과 재활용 패키지 회수 프로그램 운영
 3. 20-30대 일상 루틴에 맞춘 미니멀 3단계 라인업
+
+<img width="1192" height="549" alt="color_palette" src="https://github.com/user-attachments/assets/75c7e908-3d3a-4ffe-bf0b-93c42a99fb05" />
 
 ---
 
